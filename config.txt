@@ -1,0 +1,6 @@
+token=YOUR BOT TOKEN HERE
+owner=YOUR OWNER ID HERE
+prefix=YOUR PREFIX HERE!!!
+game=Alpha Bots!
+stayinchannel=true
+songinstatus=true
